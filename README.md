@@ -2,7 +2,6 @@
 
 ### <a href="https://wonderfullandingpage.github.io/mylandingpage/">LIVE DEMO</a> 
 
-
 ![](https://github.com/wonderfullandingpage/mylandingpage/blob/master/imgs/01.jpg?raw=true)
 ![](https://github.com/wonderfullandingpage/mylandingpage/blob/master/imgs/02.jpg?raw=true)
 
